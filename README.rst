@@ -33,6 +33,6 @@ all the steps can be replicated using ``pip`` and ``python``/``python3``. My ste
 Original Paper
 ======
 
-Reference: Ouardini, K., Lopez, R., Jones, M. G., Prillo, S., Zhang, R., Jordan, M. I., & Yosef, N. (2021,
+Ouardini, K., Lopez, R., Jones, M. G., Prillo, S., Zhang, R., Jordan, M. I., & Yosef, N. (2021,
 May 30). Reconstructing unobserved cellular states from paired single-cell lineage tracing
 and transcriptomics data. https://doi.org/10.1101/2021.05.28.446021
