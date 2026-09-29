@@ -20,14 +20,14 @@ Guide (My Use Case Only)
 ======
 
 I decided to reproduce the Metastasis data analysis, which utilises real cell 
-lineage tracing data. I used `uv`, so the example commands will reflect that, but 
-all the steps can be replicated using `pip` and `python` / `python3`. My steps were:
+lineage tracing data. I used ``uv``, so the example commands will reflect that, but 
+all the steps can be replicated using ``pip`` and ``python``/``python3``. My steps were:
 
-1. Create a python environment and enter it (`uv venv` and `source .venv/bin/activate`)
+1. Create a python environment and enter it (``uv venv`` and ``source .venv/bin/activate``)
 
-2. Install dependencies (`uv pip install -r requirements.txt`)
+2. Install dependencies (``uv pip install -r requirements.txt``)
 
-3. Open the notebook `scvi/external/notebooks/Metastasis.ipynb` and follow the instructions / run all the cells
+3. Open the notebook ``scvi/external/notebooks/Metastasis.ipynb`` and follow the instructions / run all the cells
 
 Original Paper
 ======
