@@ -7,7 +7,7 @@ was made to reproduce the results of the "Reconstructing unobserved cellular
 states from  paired single-cell lineage tracing and transcriptomics data" paper. 
 
 In this fork, I made a few minor changes to the requirements file and a typo in 
-the Metastasis notebook. I also changed this readme file. 
+the Metastasis notebook. I also changed this README file. 
 
 
 Original Repo
