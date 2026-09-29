@@ -2,7 +2,7 @@
 treeVAE-Reproducibility - Forked for HTIN5005 Assignment 1
 ========================================
 
-This is a fork of the original reproducability repo by Khalil Ouardini, which 
+This is a fork of the original reproducibility repo by Khalil Ouardini, which 
 was made to reproduce the results of the "Reconstructing unobserved cellular 
 states from  paired single-cell lineage tracing and transcriptomics data" paper. 
 
