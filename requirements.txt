@@ -10,3 +10,5 @@ scipy
 seaborn
 torch
 umap-learn
+legacy-cgi
+pydot
