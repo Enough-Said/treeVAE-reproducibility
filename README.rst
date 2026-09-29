@@ -29,7 +29,12 @@ all the steps can be replicated using ``pip`` and ``python``/``python3``. My ste
 
 3. Open the notebook ``scvi/external/notebooks/Metastasis.ipynb`` and follow the instructions / run all the cells
 
+
 Original Paper
 ======
 
-https://doi.org/10.1101/2021.05.28.446021 
+Link: https://doi.org/10.1101/2021.05.28.446021 
+
+Reference: Ouardini, K., Lopez, R., Jones, M. G., Prillo, S., Zhang, R., Jordan, M. I., & Yosef, N. (2021,
+May 30). Reconstructing unobserved cellular states from paired single-cell lineage tracing
+and transcriptomics data. https://doi.org/10.1101/2021.05.28.446021
